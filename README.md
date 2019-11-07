@@ -6,6 +6,7 @@ A list of resources for my friends at Pipedrive =)
 
 * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) A curated and updated list of ML libraries, frameworks etc.
 * [Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning) A curated and updated list of Production ML resources.
+* [Awesome Industry Machine Learning](https://github.com/firmai/industry-machine-learning)
 * [Awesome Data Engineering](https://github.com/igorbarinov/awesome-data-engineering) A curated and updated list of Data Engineering resources.
 * [Machine Learning Examples](https://github.com/lazyprogrammer/machine_learning_examples) A list of various ML code examples, with some relevent to reccomender systems. Linked to the Lazy Programmer courses on Udemy.
 * [Data Science Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) Huge list of Data Science notebooks.
