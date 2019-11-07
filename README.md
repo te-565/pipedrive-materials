@@ -44,3 +44,4 @@ A list of resources for my friends at Pipedrive =)
 
 * [Netflix ML Research](https://research.netflix.com/research-area/machine-learning) A lot of resources related to recommender systems, particularly the business side rather than the technical side.
 * [Netflix Recommender Research](https://research.netflix.com/research-area/recommendations)
+* [Recommending and Searching @ Spotify](https://www.slideshare.net/mounialalmas/recommending-and-searching-research-spotify)
