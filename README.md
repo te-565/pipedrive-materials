@@ -19,7 +19,7 @@ A list of resources for my friends at Pipedrive =)
 * [Machine Learning Mastery](https://machinelearningmastery.com/about/) Excellent resource site for ML, Statistics & Analysis. I try not to use too many random tutorials since they can be written by idiots, however this site is excellent!
 * [Chris Albon's site](https://chrisalbon.com/) Another great non-idiot site focused more on Pandas and SKL.
 
-## Things to Give to Customers
+## Things to Give to Customers to help them understand ML
 
 * [Google ML Glossary](https://developers.google.com/machine-learning/glossary) Gloassary of Machine Learning terms.
 * [R2D3](http://www.r2d3.us/) A visual introduction to Machine Learning. Very pretty!
@@ -47,4 +47,4 @@ A list of resources for my friends at Pipedrive =)
 * [Recommending and Searching @ Spotify](https://www.slideshare.net/mounialalmas/recommending-and-searching-research-spotify) Presentation on how Spotify recommend and search.
 * [How Spotify’s Algorithm Knows Exactly What You Want to Listen To](https://onezero.medium.com/how-spotifys-algorithm-knows-exactly-what-you-want-to-listen-to-4b6991462c5c) Explanation of Spotify's BeRT algoritm.
 * [Explore, Exploit, and Explain: Personalizing Explainable
-Recommendations with Bandits (Spotify)](https://static1.squarespace.com/static/5ae0d0b48ab7227d232c2bea/t/5ba849e3c83025fa56814f45/1537755637453/BartRecSys.pdf) Paper byt Spotify on the BeRT algorithm. 
+Recommendations with Bandits (Spotify)](https://static1.squarespace.com/static/5ae0d0b48ab7227d232c2bea/t/5ba849e3c83025fa56814f45/1537755637453/BartRecSys.pdf) Paper by Spotify on the BeRT algorithm. 
