@@ -44,4 +44,7 @@ A list of resources for my friends at Pipedrive =)
 
 * [Netflix ML Research](https://research.netflix.com/research-area/machine-learning) A lot of resources related to recommender systems, particularly the business side rather than the technical side.
 * [Netflix Recommender Research](https://research.netflix.com/research-area/recommendations)
-* [Recommending and Searching @ Spotify](https://www.slideshare.net/mounialalmas/recommending-and-searching-research-spotify)
+* [Recommending and Searching @ Spotify](https://www.slideshare.net/mounialalmas/recommending-and-searching-research-spotify) Presentation on how Spotify recommend and search.
+* [How Spotify’s Algorithm Knows Exactly What You Want to Listen To](https://onezero.medium.com/how-spotifys-algorithm-knows-exactly-what-you-want-to-listen-to-4b6991462c5c) Explanation of Spotify's BeRT algoritm.
+* [Explore, Exploit, and Explain: Personalizing Explainable
+Recommendations with Bandits (Spotify)](https://static1.squarespace.com/static/5ae0d0b48ab7227d232c2bea/t/5ba849e3c83025fa56814f45/1537755637453/BartRecSys.pdf) Paper byt Spotify on the BeRT algorithm. 
