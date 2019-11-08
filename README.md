@@ -41,6 +41,7 @@ A list of resources for my friends at Pipedrive =)
 * [MLFlow](https://mlflow.org/) Not had a chance to check this out properly yet, but I've heard very good things about it. Helps manage the Machine Learning lifecycle.
 * [LIME](https://github.com/marcotcr/lime) Again, not had a chance to check this out properly yet, but friends say it's good! Explainability framework for Python / R and can be used with SKL / Keras etc.
 * [DfT Data Science Team Processes](https://departmentfortransport.github.io/ds-processes/) The processes my team came up with @ DfT. This includes general stuff as well as a script to make Jupyter Notebooks easier to QA through `nbstripout`
+* [The Institute for Ethical ML](https://ethical.institute/) This is run by my friend Alejandro and has advice on how to develop ethical ML systems. Also he runs an ML Engineer newsletter that contains lots of cutting edge resources.
 
 ## Recommender System Resources
 
